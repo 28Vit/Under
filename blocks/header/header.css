@@ -1,0 +1,14 @@
+.header {
+    background-color: #f4f5fc;
+}
+
+.header__menu {
+	height: 85px;
+    margin-top: 9px;
+}  
+
+.header__bg {
+    background: url(../../img/under-bg1.jpg) no-repeat top center #f4f5fc;
+    background-size: cover;
+    height: 685px;
+}

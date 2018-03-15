@@ -1,0 +1,14 @@
+.nav {
+	padding-top: 35px;
+}
+
+.nav-item {
+    text-transform: uppercase;
+    letter-spacing: 2px;	
+}
+
+.nav-link {
+    margin: 0 60px;
+    color: #4d4959;
+}
+

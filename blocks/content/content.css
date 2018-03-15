@@ -1,0 +1,39 @@
+.content__workshop {
+	padding: 50px 0;
+    background-color: #fbfbfb;
+}
+
+.content__text {
+	margin-top: 25px;
+	text-align: center;
+	font-size: 14px;
+	font-weight: 300;
+    color: #848789;
+    word-spacing: 2px;
+    line-height: 1.8em;
+}
+
+.content__text_workshop {
+	font-size: 18px;
+	font-weight: 300;
+}
+
+.content__title {
+    font-size: 18px;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: #353738;
+    letter-spacing: 2px;
+}
+
+.content__material_bg {
+	background: url(../../img/4under.jpg) no-repeat center center;
+    background-size: cover;
+    height: 600px;
+    position: relative;
+}
+
+.content__bottom-block {
+	background: url(../../img/9under.jpg) no-repeat center center;
+    background-size: cover;
+}
